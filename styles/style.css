@@ -13,6 +13,8 @@ body {
 
 button {
 	font-family: "Source Sans Pro","Helvetica Neue",Arial,sans-serif;
+	background-color: #ce5f31;
+	border: 0px;
 }
 
 /*  Navigation */
